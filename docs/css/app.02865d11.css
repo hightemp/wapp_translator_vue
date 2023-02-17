@@ -1,0 +1,1 @@
+body,html{padding:0;margin:0}#app,.wrapper,body,html{height:100%}.wrapper{display:grid;grid-template-rows:1fr 50px 1fr}.output-block,.text-block textarea{width:100%;height:100%}.output-block{background:#eee}.options{display:flex;align-items:center;justify-content:center}
