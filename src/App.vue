@@ -79,7 +79,8 @@ export default {
           }
         },
         bing: {
-          url: `https://www.bing.com/translator`,
+          url: `https://www2.bing.com/tlookupv3?isVertical=1&`,
+          // &IG=${msIG}&IID=${msIID}.${msIIDcntr}
           args: {
             text: this.sInput,
 
